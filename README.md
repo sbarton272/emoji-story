@@ -1,4 +1,4 @@
-# emoji stories
+# Emoji Stories
 
 - Ice Fall Cat Meal ⛸💃❄🍂🐅🍗👻
 - Ice Fall ⛸💃❄🍂🙀
@@ -10,3 +10,14 @@
 - Frozen Rabbit 🐇🍂🌬🌨⛄☠
 - Tasty Treat 🐇🦅☠
 - Yummy Rabbit 🐰🐯...🙊
+
+# Reviews
+
+> 😍
+- Annon
+
+> 👍👍👍
+- NYTimes
+
+> 💩
+- Shakespeare
