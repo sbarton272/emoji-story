@@ -22,3 +22,7 @@
 
 > 💩
 - Shakespeare
+
+# Inspiration
+
+https://xkcd.com/1920/
